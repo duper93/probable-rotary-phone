@@ -1,0 +1,48 @@
+/* DEBUT DE LA NAVBAR */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+  text-decoration: none;
+  list-style: none;
+  
+}
+
+nav{
+    background: deepskyblue;
+}
+nav ul {
+  float: right;
+  margin-right: 20px;
+}
+
+nav ul li{
+    font-size: 20px;
+    display: inline-block;
+    line-height: 20px;
+    margin: 20px 20px;
+}
+nav ul li a{
+    color:white;
+
+}
+a:hover{
+    background:rgb(24, 120, 151) ;
+    transition: 0.5s;
+}
+img{
+    margin: 10px;
+    height: 40px;
+    border-radius: 200px;
+}
+/* FIN DE LA NAVBAR */
+/*DEBUT CREATION DES ICONE*/
+footer{
+    background-color: deepskyblue;
+}
+/*FIN CREATION DES ICONE*/
+
+
+
+
